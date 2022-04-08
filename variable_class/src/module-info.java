@@ -1,0 +1,2 @@
+module variable_class {
+}
